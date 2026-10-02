@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../EF-Core External/EF-CoreExternal/EF-CoreExternal.csproj" />
+  <Project Path="EF-CoreModel/EF-CoreInternal.csproj" />
+</Solution>
